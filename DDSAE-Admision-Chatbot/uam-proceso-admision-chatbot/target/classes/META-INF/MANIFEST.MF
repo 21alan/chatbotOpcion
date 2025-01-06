@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: uam-proceso-admision-chatbot
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+Main-Class: mx.uam.rectoria.dti.ddsae.proceso_admision.chatbot.UamProc
+ esoAdmisionChatbotApplication
+
